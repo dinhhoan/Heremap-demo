@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/layout_activity_main.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-pngs-18:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/drawable-hh_ic_red.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/drawable-hh/ic_red.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/drawable_group.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/drawable/group.xml"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/drawable_ic_plot.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/drawable/ic_plot.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/drawable_ic_plot_small.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/drawable/ic_plot_small.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/drawable_ic_maps.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/drawable/ic_maps.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/drawable_iv.png.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/drawable/iv.png"
+    },
+    {
+        "merged": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-merged_res-23:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/admin/.gradle/daemon/7.4/com.here.hellomap.app-main-25:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

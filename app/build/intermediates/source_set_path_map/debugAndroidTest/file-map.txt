@@ -1,0 +1,7 @@
+com.here.hellomap.test.app-androidTest-0 /Users/admin/Documents/Project/Heremap/here-sdk-examples/examples/latest/explore/android/HelloMap/app/build/generated/res/resValues/androidTest/debug
+com.here.hellomap.test.app-androidTest-1 /Users/admin/Documents/Project/Heremap/here-sdk-examples/examples/latest/explore/android/HelloMap/app/build/generated/res/rs/androidTest/debug
+com.here.hellomap.test.app-mergeDebugAndroidTestResources-2 /Users/admin/Documents/Project/Heremap/here-sdk-examples/examples/latest/explore/android/HelloMap/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.here.hellomap.test.app-mergeDebugAndroidTestResources-3 /Users/admin/Documents/Project/Heremap/here-sdk-examples/examples/latest/explore/android/HelloMap/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.here.hellomap.test.app-merged_res-4 /Users/admin/Documents/Project/Heremap/here-sdk-examples/examples/latest/explore/android/HelloMap/app/build/intermediates/merged_res/debugAndroidTest
+com.here.hellomap.test.app-androidTest-5 /Users/admin/Documents/Project/Heremap/here-sdk-examples/examples/latest/explore/android/HelloMap/app/src/androidTest/res
+com.here.hellomap.test.app-androidTestDebug-6 /Users/admin/Documents/Project/Heremap/here-sdk-examples/examples/latest/explore/android/HelloMap/app/src/androidTestDebug/res

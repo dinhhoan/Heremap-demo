@@ -1,0 +1,1 @@
+{"definitions": {"IsoCountryCode": ["case", ["==", ["get", "source"], "ipc"], "JP", ["regex-replace", ["get", "network"], ":.*", ""]], "Is.IsoCountryCode.US": ["==", ["regex-replace", ["get", "network"], ":.*", ""], "US"], "Is.IsoCountryCode.GB": ["==", ["regex-replace", ["get", "network"], ":.*", ""], "GB"]}}
